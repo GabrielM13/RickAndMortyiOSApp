@@ -112,10 +112,6 @@
 			isa = PBXGroup;
 			children = (
 				C06F79FA2B114417006EB490 /* Resources */,
-				C06F79F92B1143EF006EB490 /* Commons */,
-				C06F79F82B1143E0006EB490 /* Network */,
-				C06F79F72B1143CE006EB490 /* ViewModels */,
-				C06F79F62B1143BD006EB490 /* Views */,
 				C06F79F52B114205006EB490 /* Models */,
 				C06F79F42B1141FF006EB490 /* Controllers */,
 				C06F79D22B113A47006EB490 /* Info.plist */,
@@ -156,34 +152,6 @@
 				C06F79FF2B11469F006EB490 /* RMEpisodeModel.swift */,
 			);
 			path = Models;
-			sourceTree = "<group>";
-		};
-		C06F79F62B1143BD006EB490 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
-		C06F79F72B1143CE006EB490 /* ViewModels */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = ViewModels;
-			sourceTree = "<group>";
-		};
-		C06F79F82B1143E0006EB490 /* Network */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Network;
-			sourceTree = "<group>";
-		};
-		C06F79F92B1143EF006EB490 /* Commons */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Commons;
 			sourceTree = "<group>";
 		};
 		C06F79FA2B114417006EB490 /* Resources */ = {
